@@ -83,3 +83,14 @@ footer {
   background-color: #cabdb2;
   border-color: #512200;
 }
+
+.link-card:hover .btn {
+  background-color: #512200;
+  border: solid #512200;
+  border-width: 2px;
+  border-radius: 8px;
+}
+
+.link:hover dl {
+  color: #512200;
+}
